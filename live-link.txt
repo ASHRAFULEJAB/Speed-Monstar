@@ -1,0 +1,2 @@
+* Live-Link(Home):https://chipper-dasik-bbb068.netlify.app/
+* Live-Link(Blog):https://chipper-dasik-bbb068.netlify.app/blog.html
